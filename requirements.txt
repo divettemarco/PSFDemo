@@ -1,0 +1,13 @@
+# conda environment
+python==3.12.4
+librosa==0.10.2.post1
+matplotlib-base==3.8.4
+numpy==1.26.4
+PyAudio==0.2.14
+pysoundfile
+pytorch==2.4.0
+scipy==1.14.0
+sounddevice==0.4.7
+tabulate==0.8.10
+torchaudio==2.4.0
+webrtcvad==2.0.10
