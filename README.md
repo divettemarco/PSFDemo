@@ -7,7 +7,7 @@ The psf demo demonstrates our metric for detecting pragmatic similarity
 The way it works is that it records someone speaking and chops up
 their utterances into different .wav files. Each utterance is then
 compared to all of the clips in one of our datasets. It then shows
-clips of differing levels of similarity. 
+clips of differing levels of similarity. To understand further how the [PSF demo](https://www.youtube.com/watch?v=2AmYXQwEi0E) works, you can view the linked video.
 
 ## Datasets
 
